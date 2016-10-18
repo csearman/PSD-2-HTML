@@ -1,0 +1,341 @@
+div.container
+{
+	width:1440px;
+	height:1200px;
+	background-color:#000000;	
+}
+div.slider
+{   position: relative;
+	width:1440px;
+	height:340px;
+	background-image:url("../images/00_12.PNG");
+	
+}
+div.mainheader
+{   
+    
+    position: absolute;
+	background-color:#000000;
+	opacity: 0.7;
+	width:720px;
+	height:120px;
+	left: 0;
+	
+	
+}
+
+div.logo
+{   position: absolute;
+	background-color:#000000;
+	width:427px;
+	height:70px;
+	opacity: 0.7;
+	left:136px;
+	top:25px;
+	background-image:url("../images/logo.PNG");	
+}
+div.menu
+{   
+    
+    position: absolute;
+	background-color:#000000;
+	opacity: 0.7;
+	width:720px;
+	height:120px;
+	right: 0;
+	
+	
+	
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    
+	color: #7A634D;
+}
+div.minbody
+{   
+    position: relative;
+	width:1440px;
+	height:140px;
+	right: 0;
+	
+}
+h1{
+	color:#8D8256;
+}
+h3{
+	color:white;
+}
+
+div.content
+{   
+    position: relative;
+	width:1440px;
+	height:350px;
+	right: 0;
+	
+}
+div.content1
+{   
+    position: absolute;
+	width:350px;
+	height:350px;
+	left:136px;
+	border:3px solid #94895B;
+	
+}
+div.seca
+{   
+    background: #94895b none repeat scroll 0 0;
+    padding: 5px;
+    width: 350px;
+	margin-right: 0px; 
+	padding-right: 0px; 
+	padding-left: 2px;
+	
+}
+div.head
+{   
+    
+	
+}
+div.logoh
+{
+	width:350px;
+   
+	background-color:#94895B;
+	
+}
+div.teth
+{
+	 margin-bottom: 0;
+    margin-top: 0;
+    width: 165px;
+	float:left;
+	
+}
+div.doloarh
+{
+    position:absolute;
+	width:40px;
+	left:260px;
+	margin-top: -15px;
+	
+}
+div.doloarh h1{
+	color:white;
+}
+div.secb h4{
+	color:#94895B;
+	text-align:center;
+	line-height:1.5;
+}
+div.sece h4{
+	color:#94895B;
+	text-align:center;
+	line-height:1.5;
+}
+div.sech h4{
+	color:#94895B;
+	text-align:center;
+	line-height:1.5;
+}
+div.secb
+{   
+    position: absolute;
+	top:87px;
+	width:350px;
+	height:175px;
+	background: #111;
+	
+}div.secc
+{   
+    position: absolute;
+	width:350px;
+	height:88px;
+	top:262px;
+	background: #94895B;
+	
+}
+div.btn
+{   
+    position: absolute;
+	width:190px;
+	height:70px;
+	background: #111;
+	border-right-width: 15px; 
+	margin-right: 13px; 
+	margin-left: 91px; 
+	margin-top: 10px;
+    border-radius: 10px;
+	
+}
+div.btn h4
+{
+	color:#94895B;
+	text-align:center;
+}   
+
+div.secd
+{   
+    position: absolute;
+	width:350px;
+	height:87px;
+	background: #94895B;
+	
+}
+div.sece
+{   
+    position: absolute;
+	width:350px;
+	top:87px;
+	height:175px;
+	background: #111;
+	
+}div.secf
+{   
+    position: absolute;
+	width:350px;
+	height:88px;
+	top:262px;
+	background: #94895B;
+	
+}div.secg
+{   
+    position: absolute;
+	width:350px;
+	height:87px;
+	background: #94895B;
+	
+}
+div.sech
+{   
+    position: absolute;
+	width:350px;
+	top:87px;
+	height:175px;
+	background: #111;
+	
+}
+div.seci
+{   
+    position: absolute;
+	width:350px;
+	height:88px;
+	top:262px;
+	background: #94895B;
+	
+}
+
+div.content2
+{   
+    position:absolute;
+	height:350px;
+	width:350px;
+	left:520px;
+	border:3px solid #94895B;
+	
+}
+div.content3
+{   
+    position:absolute;
+	height:350px;
+	width:350px;
+	left:904px;
+	border:3px solid #94895B;
+	
+}
+div.ftr{
+	position:relative;
+    height:109px;
+	width:1440px;
+	bottom:0;
+	margin-top: 234px;
+	background-color:#333333;
+}
+div.icon{
+	position:absolute;
+    height:70px;
+	width:350px;
+	left:136px;
+	margin-top: 30px;
+}
+div.lastmnu
+{
+    position:absolute;
+    height:40px;
+	width:750px;
+	right:0;
+	margin-top: -30px;
+
+}
+div.copy
+{
+	position:absolute;
+    height:40px;
+	width:415px;
+	right:0;
+	margin-top: 60px;
+}
+.copyrt{
+	color:#5B5B5B;
+}
+
+.flo{
+	color:white;
+	font-size:20px;
+	
+}
+.favicon
+{
+	list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+}
+ul.favicon li
+{
+	margin-right:10px;
+}
+h2
+{
+	color:black;
+}
+.try
+{
+	color:black;
+	padding:5px;
+	line-height:0.4;
+}
+.ltext
+{
+	color:black;
+	margin: 0;
+}
+.clear
+{
+	clear:both;
+}
+
+
+
+
+
